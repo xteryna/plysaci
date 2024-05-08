@@ -9,7 +9,7 @@ const text1 =
   'Silvestr rád pozoruje dění za oknem a upřímně se usmívá na všechno kolemjdoucí.';
 
 const name2 = 'Ctirad';
-const image2 = 'img/ctirad.jpg';
+const image2 = '../img/ctirad.jpg';
 const text2 =
   'Ctirad tráví svůj čas v blízkosti lednice a s očekáváním pozoruje její bílé dveře.';
 
